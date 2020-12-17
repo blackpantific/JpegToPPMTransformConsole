@@ -1,0 +1,7 @@
+G:\Xamarin\JpegToPPMTransformConsole\JpegToPPMTransformConsole\bin\Debug\JpegToPPMTransformConsole.exe.config
+G:\Xamarin\JpegToPPMTransformConsole\JpegToPPMTransformConsole\bin\Debug\JpegToPPMTransformConsole.exe
+G:\Xamarin\JpegToPPMTransformConsole\JpegToPPMTransformConsole\bin\Debug\JpegToPPMTransformConsole.pdb
+G:\Xamarin\JpegToPPMTransformConsole\JpegToPPMTransformConsole\obj\Debug\JpegToPPMTransformConsole.csprojAssemblyReference.cache
+G:\Xamarin\JpegToPPMTransformConsole\JpegToPPMTransformConsole\obj\Debug\JpegToPPMTransformConsole.csproj.CoreCompileInputs.cache
+G:\Xamarin\JpegToPPMTransformConsole\JpegToPPMTransformConsole\obj\Debug\JpegToPPMTransformConsole.exe
+G:\Xamarin\JpegToPPMTransformConsole\JpegToPPMTransformConsole\obj\Debug\JpegToPPMTransformConsole.pdb
